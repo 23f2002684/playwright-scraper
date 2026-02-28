@@ -2,7 +2,7 @@
 import asyncio
 from playwright.async_api import async_playwright
 
-SEEDS = [64, 65, 66, 67, 68, 69, 70, 71, 72, 73]
+SEEDS = [45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
 BASE_URL = "https://sanand0.github.io/tdsdata/js_table/?seed="
 
 
